@@ -1,0 +1,34 @@
+
+[feedtype="ad"],
+#v6_pl_content_biztips,
+.WB_main_r,
+.gn_search_v2 span.placeholder,
+.gn_nav_list li:not(:last-child),
+[node-type="recommendTopic"]
+{
+	display: none!important;
+}
+
+.S_bg2, blockquote, .W_btn_b, .W_input, .SW_fun_bg {
+    background-color: rgba(255,255,255,.9)!important;
+}
+
+.WB_frame
+{
+	padding: 60px 0 0 0!important;
+	padding-left: 120px!important;
+}
+
+.WB_main_c{
+	width: 700px!important;
+}
+
+/* #v6_pl_rightmod_attfeed
+{
+	display: none;
+}
+
+[id^="v6_pl_rightmod"]
+{
+	display: none;
+} */
